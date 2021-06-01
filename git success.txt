@@ -2,3 +2,7 @@ I successfuly created a github account
 a git repository
 I cloned it to a fule inside PC 
 and I'm going a head !
+
+---
+ I successfuly added ssh key to my git account !
+thanks me :)
